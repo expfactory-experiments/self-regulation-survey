@@ -2,6 +2,7 @@
     "name": "Short Self-Regulation Questionnaire (SSRQ) Survey",
     "template":"survey",
     "exp_id": "self-regulation-survey",
+    "url": "https://github.com/expfactory-experiments/self-regulation-survey",
     "cognitive_atlas_task_id": "trm_56a91ed5f1ccc",
     "contributors": [
              "Zeynep Enkavi",
